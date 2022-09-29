@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+}
+.form {
+  background-color: white;
+  opacity: 0.5;
+  margin-top: 10%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  border-radius: 25px;
+  padding-top: 10px;
+  padding-left: 70px;
+  padding-right: 70px;
+  padding-bottom: 100px;
+}
+.interior {
+  margin: 20px;
+  padding-bottom: 20px;
+  line-height: 2;
+}
+.btn {
+    opacity: .5;
+  width: 100%;
+  border-radius: 25px;
+}
+#btn{
+    margin-top: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+}
+.btn:hover{
+    opacity: 1;
+}
